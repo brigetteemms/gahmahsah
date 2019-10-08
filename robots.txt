@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahsohnisah.rubyismagic.de/sitemap.xml
